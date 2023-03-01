@@ -6,7 +6,7 @@ public class tester {
         System.out.println("     \\/    ");
         System.out.println("   \\vvvv/  ");
         System.out.println("    \\^^/  ");
-        System.out.println("   angri   ");
+        System.out.println("   angrier ");
     }
 
 }
